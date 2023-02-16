@@ -9,7 +9,7 @@ Things I code with:
 
 - 🔭 I’m currently working on a custom day-trading algorithm utilizing Bollinger Bands!
 - 🌱 I’m currently learning Operating Systems (Linux, Unix) and Software Engineering (Agile Development)
-- 👯 I’m looking for a Summer 2023 Internship
+- 👯 I’m looking for a Software Engineer Internship for Summer 2023
 - 📫 How to reach me: Email at chanwins@oregonstate.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 8 siblings!
