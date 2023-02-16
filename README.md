@@ -16,5 +16,4 @@ Things I code with:
 
 Where to find me:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[1]
-[1]: https://www.linkedin.com/in/winstoncchan/
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/winstoncchan/)
