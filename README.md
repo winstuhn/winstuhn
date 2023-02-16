@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my page!
-I'm Winston Chan, Computer Science student from Subic Bay, Philippines, [![PH](https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/ph.png)] currently living in Los Angeles, California.
+I'm Winston Chan, Computer Science student from Subic Bay, Philippines, currently living in Los Angeles, California.
 
 Things I code with:
 
