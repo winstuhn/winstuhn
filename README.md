@@ -4,7 +4,7 @@ Welcome to my page!
 I'm Winston Chan, Computer Science student from Subic Bay, Philippines, currently living in Los Angeles, California.
 
 Things I code with:
-https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +17,5 @@ https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675
 
 Where to find me:
 
+[1]: https://www.linkedin.com/in/winstoncchan/
+[2]: https://www.facebook.com/winston.chan.10/
