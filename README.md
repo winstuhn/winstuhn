@@ -4,7 +4,8 @@ Welcome to my page!
 I'm Winston Chan, Computer Science student from Subic Bay, Philippines, currently living in Los Angeles, California.
 
 Things I code with:
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,atom,bash,bootstrap,c,discord,django,express,flask,git,github,heroku,jquery,linux,mongodb,mysql,nodejs,postman,py,sqlite,stackoverflow,vscode)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
