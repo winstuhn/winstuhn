@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my page!
-I'm Winston Chan, Computer Science student from Subic Bay, Philippines, currently living in Los Angeles, California.
+I'm Winston Chan, Computer Science student from Subic Bay, Philippines, :philippines: currently living in Los Angeles, California :us:.
 
 Things I code with:
 
