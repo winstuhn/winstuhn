@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my page!
-I'm Winston Chan, Computer Science student at Oregon State University.
+I'm Winston Chan, Computer Science student at Oregon State University. I'm also a software developer at CASS.
 
 Software/Languages/Technologies I have some experience in:
 
